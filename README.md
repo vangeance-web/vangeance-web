@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vangeance-web
-- 👀 I’m new to coding and currently making my own website 
-- 🌱 I’m currently learning HTML, CSS & JavaScript 
-- 📫 How to reach me: zlatangamesfps@gmail.com 
-- 😄 Pronouns: He/Him 
+ Hi, I’m Zlatan, 22 - @vangeance-web
+ Pronouns: He/Him 
+ I’m new to coding and currently making my own website
+ I’m learning HTML, CSS & JavaScript 
+ Contact: zlatangamesfps@gmail.com 
+ 
 
 
 <!---
